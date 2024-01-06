@@ -1,3 +1,3 @@
 # Is_it
 
-Developed with Unreal Engine 5
+Unfinished gmae developed with Unreal Engine 5 in which you play as a mimic posesing inanimate objects and trying to kill people.
